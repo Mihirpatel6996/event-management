@@ -1,0 +1,6 @@
+python manage.py collectstatic
+python manage.py runserver
+
+
+NU-Sport Logo
+NUTECH-2020
